@@ -3,7 +3,7 @@
 Các bài tập Angular thực hiện tại Fsoft Academy
 
 1. Asignment 1: Làm quen với component và data binding ([link](https://github.com/tienthanhjlw/asm-ng/tree/asm-1))
-
+2. Asignment 2: Làm quen với việc truyền dữ liệu giữa các components. Tìm hiểu Input, Output, EventEmitter ([link](https://github.com/tienthanhjlw/asm-ng/tree/asm-2))
 
 
 ## Development server
