@@ -1,6 +1,10 @@
-# Asm
+![angular](https://en.wikipedia.org/wiki/File:Angular_full_color_logo.svg)
+# Giới thiệu
+Các bài tập Angular thực hiện tại Fsoft Academy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+1. Asignment 1: Làm quen với component và data binding [ASM](https://github.com/tienthanhjlw/asm-ng/tree/asm-1)
+
+
 
 ## Development server
 
@@ -14,14 +18,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![logo](https://www.fpt-software.com/wp-content/uploads/sites/2/2017/11/FPT-Software-Ngang-2017.png)
