@@ -1,3 +1,14 @@
-<p>
-  home works!
-</p>
+<div class="container text-center">
+  <div class="jumbotron">
+    <h1>A Big Title</h1>
+    <h3 class="text-muted">A Subtitle</h3>
+    <hr>
+    <div class="row">
+      <div class="col-sm-4"><app-social name="facebook"></app-social></div>
+      <div class="col-sm-4"><app-social name="twitter"></app-social></div>
+      <div class="col-sm-4"><app-social name="github"></app-social></div>
+      <div class="col-sm-12"><app-social [other]=github></app-social></div>
+      <div class="col-sm-12"><app-social other={{spinner}}></app-social></div>
+    </div>
+  </div>
+</div>
